@@ -1,0 +1,12 @@
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Debug\net6.0\EmailService.Core.deps.json
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Debug\net6.0\EmailService.Core.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Debug\net6.0\EmailService.Core.pdb
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\obj\Debug\net6.0\EmailService.Core.csproj.AssemblyReference.cache
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\obj\Debug\net6.0\EmailService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\obj\Debug\net6.0\EmailService.Core.AssemblyInfoInputs.cache
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\obj\Debug\net6.0\EmailService.Core.AssemblyInfo.cs
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\obj\Debug\net6.0\EmailService.Core.csproj.CoreCompileInputs.cache
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\obj\Debug\net6.0\EmailService.Core.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\obj\Debug\net6.0\refint\EmailService.Core.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\obj\Debug\net6.0\EmailService.Core.pdb
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\obj\Debug\net6.0\ref\EmailService.Core.dll
