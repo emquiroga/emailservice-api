@@ -1,0 +1,15 @@
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\EmailService.WebApp.exe
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\EmailService.WebApp.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\EmailService.WebApp.deps.json
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\EmailService.WebApp.runtimeconfig.json
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\EmailService.WebApp.pdb
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\Mailjet.Client.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\EmailService.Core.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.WebApp\bin\Release\net6.0\publish\EmailService.Core.pdb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2OayQAEVXyfDKyQmZl5WbDMoeIEmcXryw+Oq3N8tPjtu+Wx6cmlMDrzCqIEHBUnVtBvgg/YdlJXgfhvdi349sg==",
+  "dgSpecHash": "79A+zVXTJLtoh6g2RPU2H8NPnEInr+OAv53+Yh2vqus1Qgdv6RF74SoGW4KuKcH0Vnq1ILGCI28JKNkKIV9Rvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\emili\\dev\\c#\\repos\\EmailService.WebApp\\EmailService.WebApp\\EmailService.WebApp.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\emili\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",

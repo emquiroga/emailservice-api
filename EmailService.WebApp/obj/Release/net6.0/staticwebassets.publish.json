@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "15PdG/X04IQeFeBuveedFRrrlGamVYlL1qB3I4WTj5s=",
+  "Source": "EmailService.WebApp",
+  "BasePath": "_content/EmailService.WebApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

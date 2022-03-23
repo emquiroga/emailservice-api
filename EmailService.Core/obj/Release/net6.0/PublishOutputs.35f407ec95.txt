@@ -1,0 +1,10 @@
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Release\net6.0\publish\EmailService.Core.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Release\net6.0\publish\EmailService.Core.deps.json
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Release\net6.0\publish\EmailService.Core.pdb
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Release\net6.0\publish\Mailjet.Client.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Release\net6.0\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Release\net6.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Release\net6.0\publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Release\net6.0\publish\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Release\net6.0\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\emili\dev\c#\repos\EmailService.WebApp\EmailService.Core\bin\Release\net6.0\publish\Newtonsoft.Json.dll
